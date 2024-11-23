@@ -1,0 +1,7 @@
+{
+  "mqtt_broker": "173.21.100.12",
+  "mqtt_port": 1883,
+  "mqtt_user": "sms",
+  "mqtt_password": "23pipocas",
+  "mqtt_topic": "energy/full"
+}
